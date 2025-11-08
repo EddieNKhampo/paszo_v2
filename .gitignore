@@ -1,0 +1,11 @@
+# Git ignore file for paszo V2
+/vendor/
+/node_modules/
+/storage/
+*.log
+.env
+.DS_Store
+Thumbs.db
+.idea/
+*.bak
+*.tmp
